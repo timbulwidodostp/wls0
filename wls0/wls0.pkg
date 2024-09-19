@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'wls0': Weighted least squares (WLS) regression Use wls0 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f wls0.ado
+f wls0.hlp
