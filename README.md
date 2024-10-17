@@ -1,6 +1,8 @@
 # wls0
 Weighted least squares (WLS) regression Use wls0 With STATA 18
 
+https://www.youtube.com/watch?v=nsV1i9vcg_w
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
